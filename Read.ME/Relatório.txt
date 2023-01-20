@@ -1,0 +1,19 @@
+Importante, leia com atenção!
+Report da (nome da WebApp) em relação a sua empresa:
+
+Boa tarde, (nome do responsável). Estou entrando em contato por aqui, para relatar sobre um problema
+relacionado a uma de nossas regras de negócios pré-estabelicidas.
+
+------------------------------------------------------------------------------------------------------------------------
+
+Assunto: A função do Administrador está atualmente errada, portanto, essa função está
+no momento desativada. Já estamos trabalhando na correção e entrega válida o mais rápido o possível.
+
+
+Causa: Esse infortúnio ocorreu devido a um deslize de nossa equipe que acabou deixando a função de 
+administrador como se tivesse o papel de um cliente normal, por fim, fazendo o programa dar conflito e dependendo
+do que for feito pelo administrador ele não conseguirá realizar suas funções adequadamente. 
+
+------------------------------------------------------------------------------------------------------------------------
+
+Ass: Henrique Villarrazo.
